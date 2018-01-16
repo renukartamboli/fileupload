@@ -1,0 +1,13 @@
+Q1 What is the difference between Java serve-let and JSP?
+Q2 Explain JDBC Drivers in Java.
+Q3 What is socket? Explain different types of sockets provided by java.
+Q4 What is RMI? Explain Java RMI
+Q5 What is multithreading? Explain a thread in java.
+Q6 What is CORBA? Explain advantages of CORBA.
+Q7 Design a Java Application using Socket for implementation of client and a server.Server calculates the factorial of a given number.
+
+Q8 Design a web application using jsp
+
+Q9 Design a java servelet application.
+
+Q10 Write a java application to retrieve data from database. 
